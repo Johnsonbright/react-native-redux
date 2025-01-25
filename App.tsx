@@ -61,6 +61,7 @@ function App(): React.JSX.Element {
     <SafeAreaView>
       <StatusBar/>
       <Text>Hello  World</Text>
+      <Text>Joe Doe</Text>
     </SafeAreaView>
   );
 }
